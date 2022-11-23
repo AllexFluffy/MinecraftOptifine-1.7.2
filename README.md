@@ -1,5 +1,5 @@
 # Minecraft Optifine 1.7.2
-Minecraft Optifine 1.7.2
+Versions
 
 1. OptiFine 1.7.2 HD U F7
 2. OptiFine 1.7.2 HD U F3
