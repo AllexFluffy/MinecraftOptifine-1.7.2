@@ -1,4 +1,4 @@
-# MinecraftOptifine-1.7.2
+# Minecraft Optifine 1.7.2
 Minecraft Optifine 1.7.2
 
 1. OptiFine 1.7.2 HD U F7
